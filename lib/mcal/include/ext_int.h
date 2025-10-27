@@ -2,7 +2,7 @@
 #define EXT_INT_H_
 
 #include "inttypes.h"
-#include "ext_int_reg.h"
+#include "../src/Ext_INT/ext_int_reg.h"
 
 #define EXT_INT0_ID					(0)
 #define EXT_INT1_ID					(1)

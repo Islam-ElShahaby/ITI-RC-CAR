@@ -3,6 +3,6 @@
 
 #include "inttypes.h"
 
-#define GIE_SREG		(*(volatile uint8_t*)0x5F)
+#define SREG		(*(volatile uint8_t*)0x5F)
 
 #endif /* GIE_REG_H_ */

@@ -1,16 +1,7 @@
-/*
- * gie.h
- *
- * Created: 10/11/2023 7:33:07 PM
- *  Author: ali_e
- */ 
-
-
 #ifndef GIE_H_
 #define GIE_H_
 
-#include "gie_reg.h"
-#include "std_types.h"
+#include "../src/GIE/gie_reg.h"
 
 #define I_BIT_NO		(7)
 
