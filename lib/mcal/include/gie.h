@@ -1,7 +1,7 @@
 #ifndef GIE_H_
 #define GIE_H_
 
-#include "../src/GIE/gie_reg.h"
+#include "GIE/gie_reg.h"
 
 #define I_BIT_NO		(7)
 
