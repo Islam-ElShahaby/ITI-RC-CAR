@@ -1,7 +1,7 @@
 #ifndef TIMER0_H_
 #define TIMER0_H_
 
-#include "inttypes.h"
+#include "std_types.h"
 #include "../src/Timer0/timer0_TYPES.h"
 
 /* --- Function Prototypes --- */
